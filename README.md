@@ -6,9 +6,7 @@
 - 💬 Languages: C#, F#, Typescript.
 - 📫 How to reach me :  [Instagram](https://www.instagram.com/chukwumaakunyili/) • [Twitter](https://twitter.com/chukwuma_xx) • [Linkedin](https://www.linkedin.com/in/chukwuma-akunyili-413176156/)
 
-
 <!---
- **aguluman/About-Me** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aguluman/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
