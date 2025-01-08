@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Back-End Engineering Projects and Mixtual Reality/Game Development Projects.
 - 👀 I’m interested in Immersive Reality and Server-Side Engineering.
 - 🌱 I’m currently learning Unity, Game Development, Augumented Reality, Virtual Reality and Back-End Development.
-- 💬 Languages: C#, F#, Typescript.
+- 💬 Languages: C#, Java, Typescript, F#, OCaml🐫.
 - 📫 How to reach me :  [Instagram](https://www.instagram.com/agulumans/) • [Twitter](https://twitter.com/chukwuma_xx) • [Linkedin](https://www.linkedin.com/in/chukwuma-akunyili-413176156/)
 
 <!---
